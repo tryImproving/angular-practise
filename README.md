@@ -1,14 +1,11 @@
 # Practice
-React Basic Practice
+angular Basic Practice
 
 Create a new branch under your name on the newest release tag.
 Feel free to commit to your own branch(local/origin), but DO NOT merge your branch to main.
 
 
-
-Layout and styles are free of requirements, this practice focuses on react only.
-You may use CRA (Create React App) for this tutorial
-Please use React classes not hooks
+Layout and styles are free of requirements, this practice focuses on angular only.
 A demo video file is provided for reference only, NOT required to be the same.
 
 
@@ -27,7 +24,7 @@ Details page - Show more indepth details, example :  product price, image, descr
 - Back button: back to main page
 
 Others
-- Use ajax to fetch data  (fetch local data.json)
+- fetch data  (fetch local data.json)
 - handle empty data, fail responses. App should not crash with any missing data.
 - Do not reload the page
 - pagination logic should not reset selected products
